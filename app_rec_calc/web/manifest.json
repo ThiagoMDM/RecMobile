@@ -1,6 +1,6 @@
 {
-    "name": "mobileproject1",
-    "short_name": "mobileproject1",
+    "name": "app_rec_calc",
+    "short_name": "app_rec_calc",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

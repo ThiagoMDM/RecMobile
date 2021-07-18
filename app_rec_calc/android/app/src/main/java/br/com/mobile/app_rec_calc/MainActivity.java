@@ -1,4 +1,4 @@
-package br.com.mobile.mobileproject1;
+package br.com.mobile.app_rec_calc;
 
 import io.flutter.embedding.android.FlutterActivity;
 
